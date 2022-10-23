@@ -6,6 +6,19 @@ A robot 🤖 that pushes a ball 🥎 (into a goal 🥅).
 
 **Check out the paper we published here: [Development of an Autonomous Robot for Detecting and Collecting Objects](paper/Term-Paper_v1.pdf) and the Demo Video here: [Demo Video - Ball Schubser](https://youtu.be/InvO-HXr4YA)**
 
+## Contributors
+
+- Anton Bracke
+- Domenic Gosein
+- Jannis Seefeld
+- Jan Mayer
+- Maximilian Kürschner
+
+## Paper
+You can find the paper for this project here
+
+---
+
 ## Startup Instructions
 
 1. Clone this repo
