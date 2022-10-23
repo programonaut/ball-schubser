@@ -14,9 +14,6 @@ A robot 🤖 that pushes a ball 🥎 (into a goal 🥅).
 - Jan Mayer
 - Maximilian Kürschner
 
-## Paper
-You can find the paper for this project here
-
 ---
 
 ## Startup Instructions
